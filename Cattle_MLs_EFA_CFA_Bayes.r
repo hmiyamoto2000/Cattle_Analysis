@@ -2,20 +2,6 @@
 #Set the folder for data analyses
 setwd("/Users/____/Desktop/Data")
 
-#whole shapiro wilk test
-input_r <- read.csv("file.csv") #col(column), each conditions; row, faecal bacteria or metabolites
-
-dim(input_r) 
-input=input[,-1] #deleted first line
-library(MVN)
-mvn(input, univariateTest="SW")
-MVN_Cal=mvn(input, univariateTest="SW")
-
-dir.create("./Result_whole_Statics", showWarnings = TRUE, recursive = FALSE, mode = "0777")
-sink('./Result_whole_Statics/Shapiro_whole_MVN.txt', append = TRUE)
-print(MVN_Cal)
-sink()
-
 #MLs (AA, RF, ROC)
 #######################################################################################################
 #For AA (Figs.3a, S4, and S5) 
@@ -90,6 +76,20 @@ ROC(test=Data$component_name, stat=Data$Category_name, plot="ROC") #
 #######################################################################################################
 
 #Confirm each sheet (Data_file.xlsx) 
+
+#whole shapiro wilk test
+input_r <- read.csv("file.csv") #col(column), each conditions; row, faecal bacteria or metabolites
+
+dim(input_r) 
+input=input[,-1] #deleted first line
+library(MVN)
+mvn(input, univariateTest="SW")
+MVN_Cal=mvn(input, univariateTest="SW")
+
+dir.create("./Result_whole_Statics", showWarnings = TRUE, recursive = FALSE, mode = "0777")
+sink('./Result_whole_Statics/Shapiro_whole_MVN.txt', append = TRUE)
+print(MVN_Cal)
+sink()
 
 #For CA (Fig.S10)
 #Create the folder for Correlation network
