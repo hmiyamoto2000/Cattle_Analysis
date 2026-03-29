@@ -1,7 +1,6 @@
 # Cattle_Analysis
 
-# Gut-Protective Metabolic Phenotype for Diarrhoea Remission
-# Caused by an Environmental Probiotic Thermophile
+# Gut-Protective metabolic phenotype for diarrhoea remission caused by an environmental probiotic thermophile
 
 ## Overview
 
