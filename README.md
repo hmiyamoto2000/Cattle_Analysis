@@ -1,12 +1,16 @@
 # Cattle_Analysis
 
-1.	MLs (AA, RF, and ROC) 
-2.	CA (including Shapiro-Wilk test)
-3.	EFA
-4.	SEM and BayesLiNGAM
-#Abbreviations: MLs, Machine learning algorithms; AA, Association analysis; RF, random forest; ROC,receiver operating characteristic ; EFA, exploratory factor analysis; SEM, structural equation modeling; and BayesLiNGAM, a Bayesian score-based approach for a direct method for learning a linear nonGaussian acyclic structural equation model
-#Individual Explanation
+1.	Fig1 (andFigS1) (zip)
+2.	Fig3a(zip)
+3.	Fig3b(zip)
+4.	Fig4a(zip)
+5.	Fig4b(zip)
+6.	Fig5a(zip)
+7.	Fig5b(zip)
+8.	Fig6_procedure.md
+9.	Fig6a_plot_butyrate_cluster_v2.py
+10.	FigS7(zip)
 
-Raw data were stored in Data_file.xlsx.zip
+The number listed as Zip stores both the dataset and the command.
 
 Please check the license file on this website.
