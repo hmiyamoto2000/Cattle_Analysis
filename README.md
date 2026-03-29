@@ -6,7 +6,7 @@
 4.	Fig4a(zip)
 5.	Fig4b(zip)
 6.	Fig5a(zip)
-7.	Fig5b(zip)
+7.	Fig5b(zip) (including Fig S5)
 8.	Fig6_procedure.md
 9.	Fig6a_plot_butyrate_cluster_v2.py
 10.	FigS7(zip)
