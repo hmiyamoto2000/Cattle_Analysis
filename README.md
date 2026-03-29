@@ -12,19 +12,19 @@ to *Microbiome*.
 
 | # | Content | Format | Description |
 |---|---------|--------|-------------|
-| 1 | Fig 1 (and Fig S1) | zip | Kaplan-Meier survival analysis |
-| 2 | Fig 2a | zip | α diversity analysis |
-| 3 | Fig 2b | zip | β diversity (NMDS + PERMANOVA) |
-| 4 | Fig 3a (incl. Fig S6) | zip | Metabolite feature selection |
-| 5 | Fig 3b | zip | Cliff's delta bubble chart |
-| 6 | Fig 4a | zip | ROC curve analysis |
-| 7 | Fig 4b (incl. Fig S5) | zip | Statistical analysis (BH correction) |
-| 8 | Fig 5a | zip | PICRUSt2 functional analysis |
-| 9 | Fig 5b | zip | PICRUSt2 visualisation |
-| 10 | Fig 6 | md | Genomic analysis procedure (incl. Table S1, S2) |
+| 1 | Fig 1 (and Fig S1) | zip | Kaplan-Meier analysis and Time course series for SCFA etc. |
+| 2 | Fig 2a | zip | Bacterial α diversity analysis |
+| 3 | Fig 2b | zip | Bacterial β diversity (NMDS + PERMANOVA) |
+| 4 | Fig 3a (incl. Fig S6) | zip | Metabolite statistical analysis |
+| 5 | Fig 3b | zip | Correlation analysis |
+| 6 | Fig 4a | zip | Cliff's delta bubble chart (Metabolite feature selection) |
+| 7 | Fig 4b (incl. Fig S5) | zip | ROC curve analysis (Metabolite feature selection) |
+| 8 | Fig 5a | zip (incl. Table S1) | PPICRUSt2 functional prediction of EC numbers |
+| 9 | Fig 5b | zip | EC visualisation |
+| 10 | Fig 6 | md | Genomic and proteomic analysis (incl. Table S2, S3, S4) |
 | 11 | Fig 6a | py | Butyrate cluster visualisation |
-| 12 | Fig S4 | zip | Correlation analysis |
-| 13 | Fig S7 | zip | Time-series analysis |
+| 12 | Fig S4 | zip | Microbial statistical analysis |
+| 13 | Fig S7 | zip (incl. Table S1)| PICRUSt2 metabolic pathway analysis |
 
 Each zip file contains both the dataset and the analysis
 script/command used to generate the corresponding figure.
