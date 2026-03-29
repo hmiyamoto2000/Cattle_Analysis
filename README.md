@@ -9,7 +9,8 @@
 7.	Fig5b(zip) 
 8.	Fig6_procedure.md
 9.	Fig6a_plot_butyrate_cluster_v2.py
-10.	FigS7(zip)
+10.	FigS4(zip)
+11.	FigS7(zip)
 
 The number listed as Zip stores both the dataset and the command.
 
