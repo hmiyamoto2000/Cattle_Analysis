@@ -17,3 +17,12 @@
 The number listed as Zip stores both the dataset and the command.
 
 Please check the license file on this website.
+
+## Acknowledgments
+
+- NCBI for genome sequence and annotation
+- antiSMASH developers for BGC prediction tools
+- Analysis scripts in this repository were developed with the 
+  assistance of Claude (Anthropic). All code was critically 
+  reviewed, tested, and validated by the authors.
+
