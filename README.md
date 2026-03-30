@@ -21,7 +21,7 @@ to *Microbiome*.
 | 7 | Fig 4b (incl. Fig S5) | zip | ROC curve analysis (Metabolite feature selection) |
 | 8 | Fig 5a (incl. Table S1) | zip | PPICRUSt2 functional prediction of EC numbers |
 | 9 | Fig 5b | zip | EC visualisation |
-| 10 | Fig 6 | md | Genomic and proteomic analysis (incl. Table S2, S3, S4) |
+| 10 | Fig 6 (incl. Table S2, S3, S4) | md | Genomic and proteomic analysis  |
 | 11 | Fig 6a | py | Butyrate cluster visualisation |
 | 12 | Fig S4 | zip | Microbial statistical analysis |
 | 13 | Fig S7 (incl. Table S1) | zip | PICRUSt2 metabolic pathway analysis |
