@@ -18,7 +18,7 @@ to *Microbiome*.
 | 4 | Fig 3a (incl. Fig S6) | zip | Metabolite statistical analysis |
 | 5 | Fig 3b | zip | Correlation analysis |
 | 6 | Fig 4a | zip | Cliff's delta bubble chart (Metabolite feature selection) |
-| 7 | Fig 4b (incl. Fig S6) | zip | Permutation test (Metabolite feature selection) |
+| 7 | Fig 4bc (incl. Fig S6) | zip | Individual-level fold change heatmap and Permutation test (Metabolite feature selection) |
 | 8 | Fig 5 (incl. Table S2, S3, S4) | md | Genomic and proteomic analysis  | Butyrate cluster visualisation |
 | 9 | Fig 5a | py | Butyrate cluster visualisation |
 | 10 | Fig S4 | zip | Microbial statistical analysis |
