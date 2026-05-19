@@ -18,11 +18,12 @@ to *Microbiome*.
 | 4 | Fig 3a (incl. Fig S6) | zip | Metabolite statistical analysis |
 | 5 | Fig 3b | zip | Correlation analysis |
 | 6 | Fig 4a | zip | Cliff's delta bubble chart (Metabolite feature selection) |
-| 7 | Fig 4bc (incl. Fig S6) | zip | Individual-level fold change heatmap and Permutation test (Metabolite feature selection) |
+| 7 | Fig 4bc | zip | Individual-level fold change heatmap |
 | 8 | Fig 5 (incl. Table S2, S3, S4) | md | Genomic and proteomic analysis  | Butyrate cluster visualisation |
 | 9 | Fig 5a | py | Butyrate cluster visualisation |
 | 10 | Fig S4 | zip | Microbial statistical analysis |
-| 11 | Fig S7 (incl. Table S1) | zip | PPICRUSt2 functional prediction of EC numbers |
+| 11 | Fig S6 (incl. Fig.4)| zip | Permutation test (Metabolite feature selection) |
+| 12 | Fig S7 (incl. Table S1) | zip | PPICRUSt2 functional prediction of EC numbers |
 
 Each zip file contains both the dataset and the analysis
 script/command used to generate the corresponding figure.
