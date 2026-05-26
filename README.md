@@ -60,3 +60,4 @@ Please check the license file on this website.
 - Analysis scripts in this repository were developed with
   the assistance of Claude (Anthropic). All code was
   critically reviewed, tested, and validated by the authors.
+- Analysis scripts in this repository were developed with the assistance of Claude (Anthropic). All code was critically reviewed, tested, and validated by H.Miyamoto.
